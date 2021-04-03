@@ -5,9 +5,7 @@ I will be following the game track for this final project.
 I will possibly create a GUI for a classic video game (i.e. pong, pac man).
 
 Other game ideas:
-  Card game using the random module
-  Maze game using a turtle
-  Use pygame functions to make it easier to code a game and add graphics
+  Card game using the random module, Maze game using a turtle, Use pygame functions to make it easier to code a game and add graphics
  
 ## If you plan to collaborate with one or two classmates, what are their names?
 N/A
