@@ -1,5 +1,5 @@
 # Klein--CIS-1051-Final-Project
-Title: Corona Blaster
+Title: Corona Blaster;
 Author: Nicholas Klein
 
 ## What I enjoyed and learned:
