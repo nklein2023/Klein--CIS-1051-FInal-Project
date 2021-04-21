@@ -1,4 +1,4 @@
-# Code for the core gameplay was partly derived from the code found in the video in this link:  
+# Code for the core gameplay was partly derived from the code found in the video in this link: https://www.youtube.com/watch?v=FfWpgLFMI7w 
 # Additions of lives, fast enemy, main menu, and high scores are all origional code made by myself
 
 import pygame as pg
@@ -40,7 +40,7 @@ droplist.place(x=300,y=425)
 
 high_score_label = Label(root,text="High Score: ",width=10,bg='black',fg='white',font=('Ariel',20))
 high_score_label.place(x=130,y=750)
-score_label = Label(root,text=str(max_score) + " " + str(initials),width=10,bg='black',fg='white',font=('Ariel',20))
+score_label = Label(root,text=str(max_score) + " by " + str(initials),width=10,bg='black',fg='white',font=('Ariel',20))
 score_label.place(x=330,y=750)
 
 def startGame():
