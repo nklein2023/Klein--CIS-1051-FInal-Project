@@ -1,4 +1,7 @@
 # Klein--CIS-1051-Final-Project
+***Must download the following libraries (along with all of the other files in the repository) in order for the game to run as intended: pygame, random, math, time, PIL.Image, PIL.ImageTk, tkinter, mixer from pygame***
+
+## Basic Information
 Title: Corona Blaster;
 Author: Nicholas Klein
 
